@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @interestingzhuo
 - 👀 I’m interested in 2D&3D vision, machine learning, etc.
 - 🌱 I’m currently learning video motion capture.
-- 💞️ I’m looking to collaborate on researcher of  AI, especially computer vision.
+- 💞️ I’m looking to collaborate on AI, especially on computer vision.
 - 📫 How to reach me interesting_zhuo2163.com
 
 <!---
